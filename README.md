@@ -1,1 +1,1 @@
-# momory-game
+# memory-game
